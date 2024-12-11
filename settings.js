@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
-global.ytname = "YT: GlobalTechInfo"
-global.socialm = "GitHub: GlobalTechInfo"
+global.ownernomer = "2347084528285"
+global.ownername = "LYTA"
+global.ytname = "YT: https://youtube.com/@lytamanhwa?si=4etsgreu0aDSUwQz"
+global.socialm = "GitHub: https://youtube.com/@lytamanhwa?si=4etsgreu0aDSUwQz"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '2347084528285'  //creator number
+global.ownername = 'LYTA' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
@@ -39,16 +39,16 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
